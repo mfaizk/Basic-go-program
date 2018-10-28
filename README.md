@@ -1,2 +1,4 @@
 # golang
-This repository contain go programms example
+HOLA! Friends
+This repository contain go programms examples.
+
